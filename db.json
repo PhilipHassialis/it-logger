@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "id": 1,
+            "message": "change hd on pc13144",
+            "attention": false,
+            "date": "03-05-2019",
+            "tech": "Fotis Xomeritakis"
+        },
+        {
+            "id": 2,
+            "message": "workstation fixed",
+            "attention": false,
+            "date": "03-05-2019",
+            "tech": "Fotis Xomeritakis"
+        },
+        {
+            "id": 3,
+            "message": "workstation fubared",
+            "attention": true,
+            "date": "03-05-2019",
+            "tech": "Spyros Motsios"
+        }
+    ],
+    "techs": [
+        {
+            "id": 1,
+            "firstName": "Fotis",
+            "lastName": "Xomeritakis"
+        },
+        {
+            "id": 2,
+            "firstName": "Spyros",
+            "lastName": "Motsios"
+        },
+        {
+            "firstName": "Philip Alexander",
+            "lastName": "Hassialis",
+            "id": 3
+        }
+    ]
+}
