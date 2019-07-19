@@ -1,42 +1,35 @@
 {
-    "logs": [
-        {
-            "id": 1,
-            "message": "change hd on pc13144",
-            "attention": false,
-            "date": "03-05-2019",
-            "tech": "Fotis Xomeritakis"
-        },
-        {
-            "id": 2,
-            "message": "workstation fixed",
-            "attention": false,
-            "date": "03-05-2019",
-            "tech": "Fotis Xomeritakis"
-        },
-        {
-            "id": 3,
-            "message": "workstation fubared",
-            "attention": true,
-            "date": "03-05-2019",
-            "tech": "Spyros Motsios"
-        }
-    ],
-    "techs": [
-        {
-            "id": 1,
-            "firstName": "Fotis",
-            "lastName": "Xomeritakis"
-        },
-        {
-            "id": 2,
-            "firstName": "Spyros",
-            "lastName": "Motsios"
-        },
-        {
-            "firstName": "Philip Alexander",
-            "lastName": "Hassialis",
-            "id": 3
-        }
-    ]
+  "logs": [
+    {
+      "message": "Test run of bacth #220",
+      "attention": false,
+      "tech": "Spyros Motsios",
+      "date": "2019-07-19T03:55:57.289Z",
+      "id": 1
+    },
+    {
+      "message": "NIC changed on pc13144",
+      "attention": true,
+      "tech": "Fotis Xomeritakis",
+      "date": "2019-07-19T03:59:59.928Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Fotis",
+      "lastName": "Xomeritakis"
+    },
+    {
+      "id": 2,
+      "firstName": "Spyros",
+      "lastName": "Motsios"
+    },
+    {
+      "firstName": "Philip Alexander",
+      "lastName": "Hassialis",
+      "id": 3
+    }
+  ]
 }
