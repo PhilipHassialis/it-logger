@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "Test run of bacth #220",
-      "attention": false,
+      "id": 1,
+      "message": "Test run of bacth #220 - fix #44",
+      "attention": true,
       "tech": "Spyros Motsios",
-      "date": "2019-07-19T03:55:57.289Z",
-      "id": 1
+      "date": "2019-07-19T18:17:27.560Z"
     },
     {
+      "id": 2,
       "message": "NIC changed on pc13144",
-      "attention": true,
+      "attention": false,
       "tech": "Fotis Xomeritakis",
-      "date": "2019-07-19T03:59:59.928Z",
-      "id": 2
+      "date": "2019-07-19T18:17:33.622Z"
     }
   ],
   "techs": [
