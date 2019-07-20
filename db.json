@@ -30,6 +30,21 @@
       "firstName": "Philip Alexander",
       "lastName": "Hassialis",
       "id": 3
+    },
+    {
+      "firstName": "Katerina",
+      "lastName": "Petraki",
+      "id": 4
+    },
+    {
+      "firstName": "Evangelos",
+      "lastName": "Papanastasatos",
+      "id": 5
+    },
+    {
+      "firstName": "Athanassios",
+      "lastName": "Fameliaris",
+      "id": 6
     }
   ]
 }
