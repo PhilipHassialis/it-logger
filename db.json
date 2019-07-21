@@ -1,45 +1,7 @@
 {
   "logs": [
-    {
-      "id": 1,
-      "message": "Test run of bacth #220 - fix #44",
-      "attention": true,
-      "tech": "Spyros Motsios",
-      "date": "2019-07-19T18:17:27.560Z"
-    },
-    {
-      "id": 2,
-      "message": "NIC changed on pc13144",
-      "attention": false,
-      "tech": "Fotis Xomeritakis",
-      "date": "2019-07-19T18:17:33.622Z"
-    }
   ],
   "techs": [
-    {
-      "id": 1,
-      "firstName": "Fotis",
-      "lastName": "Xomeritakis"
-    },
-    {
-      "firstName": "Philip Alexander",
-      "lastName": "Hassialis",
-      "id": 3
-    },
-    {
-      "firstName": "Katerina",
-      "lastName": "Petraki",
-      "id": 4
-    },
-    {
-      "firstName": "Evangelos",
-      "lastName": "Papanastasatos",
-      "id": 5
-    },
-    {
-      "firstName": "Athanassios",
-      "lastName": "Fameliaris",
-      "id": 6
-    }
+    
   ]
 }
